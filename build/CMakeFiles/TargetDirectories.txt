@@ -1,3 +1,0 @@
-/home/gordonzhang/Desktop/CMake-Hello-World/build/CMakeFiles/Hello.dir
-/home/gordonzhang/Desktop/CMake-Hello-World/build/CMakeFiles/edit_cache.dir
-/home/gordonzhang/Desktop/CMake-Hello-World/build/CMakeFiles/rebuild_cache.dir
